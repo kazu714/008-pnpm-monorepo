@@ -1,0 +1,17 @@
+{
+  "name": "app1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "pnpm": "9.9.0",
+    "npm": "please_use_pnpm_instead"
+  },
+  "packageManager": "pnpm@7.20.0",
+  "scripts": {
+    "test": "echo \"hello app1!\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
